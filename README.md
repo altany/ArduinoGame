@@ -1,12 +1,12 @@
 # ArduinoGame
 This is an Arduino pong game.
 
-###The hardware
+### The hardware
 * Arduino
 * PS2 Thumb Joystick Module
 * 1.8" Color TFT LCD display
 
-###The circuit schema
+### The circuit schema
 The schema was created with Fritzing. The extra parts (for the LCD Screen) were
 downloaded from the  [adafruit repo](https://github.com/adafruit/Fritzing-Library.git "Title"). 
 
